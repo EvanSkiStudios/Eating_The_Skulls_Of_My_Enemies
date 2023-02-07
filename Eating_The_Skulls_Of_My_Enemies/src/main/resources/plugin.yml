@@ -1,0 +1,6 @@
+name: Eatingtheskullsofmyenemies
+version: '${project.version}'
+main: me.evanskistudios.eatingtheskullsofmyenemies
+api-version: 1.19
+description: Makes Players drop Player heads on Death
+authors: [ EvanskiStudios ]

@@ -1,0 +1,10 @@
+info: "
+This Config File is for enabling and Disabling features of the plugin
+(This key is for holding this info and is unused by the plugin)
+
+Setting the key below to true/false enables or disables the way players drop skulls
+"
+
+Drop_Skulls_On_Player_Kills_Only: "True"
+
+
