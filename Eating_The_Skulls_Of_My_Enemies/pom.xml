@@ -39,10 +39,6 @@
                         </goals>
                         <configuration>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
-
-                            <outputDirectory>D:\Minecraft\_Paper_server\plugins</outputDirectory>
-                            <finalName>Eating_the_Skulls_of_My_Enemies-${project.version}</finalName>
-
                         </configuration>
                     </execution>
                 </executions>
