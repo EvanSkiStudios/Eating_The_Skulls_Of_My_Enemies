@@ -5,6 +5,8 @@ Comes with an config.yml to change how players drop their heads
 (Always or only on player kills)  
 
 ## Minecraft Version: 1.19.3
+
+Works on 1.21.5
  
  
 ## Version 1.0
